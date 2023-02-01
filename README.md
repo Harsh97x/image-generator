@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Imaginer</h1>
+<h1 align="center">Imagenerator</h1>
 
 
 
