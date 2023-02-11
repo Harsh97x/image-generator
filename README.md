@@ -4,7 +4,7 @@
 
 
 
-![screenshot](https://github.com/Harsh97x/image-generator/blob/main/assests/imaginer-banner-screenshot.png)
+![screenshot](https://github.com/Harsh97x/image-generator/blob/main/assests/banner.png)
 
 
 ### Built With
