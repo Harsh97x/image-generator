@@ -21,7 +21,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Harsh97x/imaginer.git
+$ git clone https://github.com/Harsh97x/image-generator.git
 
 # Install dependencies
 $ npm install
